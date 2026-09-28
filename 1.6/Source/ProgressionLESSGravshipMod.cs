@@ -7,7 +7,7 @@ namespace ProgressionLESSGravship
     {
         public ProgressionLESSGravshipMod(ModContentPack pack) : base(pack)
         {
-            new Harmony("crues.progressionlessgravship").PatchAll();
+            new Harmony("cruesoe.progressionlessgravship").PatchAll();
         }
     }
     
