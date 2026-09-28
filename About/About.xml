@@ -24,5 +24,10 @@
         <li>vanillaexpanded.gravship</li>
         <li>rer.gravshiploanscenario</li>
         <li>alt4s.OrbitalStationStart</li>
+        <li>vanillaexpanded.gravship2</li>
+        <li>sbz.GravshipStorage</li>
+        <li>OELS.VehicleMapFramework</li>
+        <li>OELS.VehicleMapFramework.dev</li>
+        <li>Dubwise.DubsBadHygiene</li>
     </loadAfter>
 </ModMetaData>
