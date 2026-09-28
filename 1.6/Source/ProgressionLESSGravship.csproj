@@ -3,8 +3,8 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFramework>net48</TargetFramework> <!-- Ensure this matches the original framework version -->
-    <RootNamespace>ProgressionGravship</RootNamespace>
-    <AssemblyName>ProgressionGravship</AssemblyName>
+    <RootNamespace>ProgressionLESSGravship</RootNamespace>
+    <AssemblyName>ProgressionLESSGravship</AssemblyName>
     <LangVersion>latest</LangVersion>
     <Deterministic>true</Deterministic>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath> <!-- Prevent appending target framework to the output path -->

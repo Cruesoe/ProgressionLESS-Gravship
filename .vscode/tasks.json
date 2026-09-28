@@ -13,7 +13,7 @@
             "command": "dotnet",
             "args": [
                 "build",
-                "${workspaceFolder}/1.6/Source/ProgressionGravship.csproj"
+                "${workspaceFolder}/1.6/Source/ProgressionLESSGravship.csproj"
             ],
             "problemMatcher": "$msCompile",
             "group": {

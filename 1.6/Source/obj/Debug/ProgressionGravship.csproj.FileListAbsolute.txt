@@ -1,5 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Progression-Gravship\1.6\Assemblies\ProgressionGravship.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Progression-Gravship\1.6\Source\obj\Debug\ProgressionGravship.csproj.AssemblyReference.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Progression-Gravship\1.6\Source\obj\Debug\ProgressionGravship.GeneratedMSBuildEditorConfig.editorconfig
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Progression-Gravship\1.6\Source\obj\Debug\ProgressionGravship.csproj.CoreCompileInputs.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Progression-Gravship\1.6\Source\obj\Debug\ProgressionGravship.dll

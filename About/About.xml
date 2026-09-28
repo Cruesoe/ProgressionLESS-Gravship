@@ -1,33 +1,38 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>Progression: Gravship</name>
-    <author>ferny</author>
-    <packageId>ferny.ProgressionGravship</packageId>
-    <description>This mod that makes the gravengine not fall until you hit Spacer era</description>
-    <supportedVersions>
-        <li>1.6</li>
-    </supportedVersions>
-	<modDependencies>
-		<li>
-			<packageId>Ludeon.Rimworld.Odyssey</packageId>
-			<displayName>Odyssey</displayName>
-		</li>
-	</modDependencies>
-    <loadAfter>
-        <li>Ludeon.RimWorld</li>
-        <li>Ludeon.RimWorld.Royalty</li>
-        <li>Ludeon.RimWorld.Biotech</li>
-        <li>Ludeon.RimWorld.Anomaly</li>
-        <li>Ludeon.RimWorld.Odyssey</li>
-        <li>brrainz.harmony</li>
-        <li>ferny.progressionscenarios</li>
-        <li>vanillaexpanded.gravship</li>
-        <li>rer.gravshiploanscenario</li>
-        <li>alt4s.OrbitalStationStart</li>
-        <li>vanillaexpanded.gravship2</li>
-        <li>sbz.GravshipStorage</li>
-        <li>OELS.VehicleMapFramework</li>
-        <li>OELS.VehicleMapFramework.dev</li>
-        <li>Dubwise.DubsBadHygiene</li>
-    </loadAfter>
+  <name>ProgressionLESS: Gravship</name>
+  <author>Cruesoe</author>
+  <packageId>crues.progressionlessgravship</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Keeps the grav engine from falling until your colony reaches the Spacer era.
+
+Forked from Progression: Gravship by ferny. Replaces the original; do not use both.</description>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.RimWorld.Odyssey</packageId>
+      <displayName>Odyssey</displayName>
+    </li>
+  </modDependencies>
+  <incompatibleWith>
+    <li>ferny.ProgressionGravship</li>
+  </incompatibleWith>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>Ludeon.RimWorld.Anomaly</li>
+    <li>Ludeon.RimWorld.Odyssey</li>
+    <li>brrainz.harmony</li>
+    <li>ferny.progressionscenarios</li>
+    <li>vanillaexpanded.gravship</li>
+    <li>rer.gravshiploanscenario</li>
+    <li>alt4s.OrbitalStationStart</li>
+    <li>vanillaexpanded.gravship2</li>
+    <li>sbz.GravshipStorage</li>
+    <li>OELS.VehicleMapFramework</li>
+    <li>OELS.VehicleMapFramework.dev</li>
+    <li>Dubwise.DubsBadHygiene</li>
+  </loadAfter>
 </ModMetaData>

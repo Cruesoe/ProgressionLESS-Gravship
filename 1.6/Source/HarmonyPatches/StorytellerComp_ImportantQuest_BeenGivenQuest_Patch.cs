@@ -5,7 +5,7 @@ using System.Linq;
 using System.Reflection;
 using System;
 
-namespace ProgressionGravship
+namespace ProgressionLESSGravship
 {
     [HarmonyPatch(typeof(StorytellerComp_ImportantQuest), nameof(StorytellerComp_ImportantQuest.BeenGivenQuest), MethodType.Getter)]
     public static class StorytellerComp_ImportantQuest_BeenGivenQuest_Patch
@@ -49,12 +49,12 @@ namespace ProgressionGravship
                     }
                     else
                     {
-                        Log.Error("[Progression Gravship] Could not find property 'BeenGivenQuest' in type 'VanillaGravshipExpanded.StorytellerComp_ImportantQuestAfterResearch' for patching.");
+                        Log.Error("[ProgressionLESS: Gravship] Could not find property 'BeenGivenQuest' in type 'VanillaGravshipExpanded.StorytellerComp_ImportantQuestAfterResearch' for patching.");
                     }
                 }
                 else
                 {
-                    Log.Error("[Progression Gravship] Could not find type 'VanillaGravshipExpanded.StorytellerComp_ImportantQuestAfterResearch' for patching.");
+                    Log.Error("[ProgressionLESS: Gravship] Could not find type 'VanillaGravshipExpanded.StorytellerComp_ImportantQuestAfterResearch' for patching.");
                 }
             }
             return targetMethod;
