@@ -6,7 +6,9 @@
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
-  <description>Keeps the grav engine from falling until your colony reaches the Spacer era.
+  <description>Keeps the grav engine from falling until your colony reaches the Spacer era, and holds back the gravship quest line until then.
+
+The "LESS" is less research: unlike recent versions of Progression: Gravship, it adds no extra research projects and doesn't rename or rearrange the gravtech research tree. Vanilla Gravship Expanded's research stays exactly as that mod made it.
 
 Forked from Progression: Gravship by ferny. Replaces the original; do not use both.</description>
   <modDependencies>
