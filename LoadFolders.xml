@@ -2,9 +2,9 @@
   <v1.6>
     <li>/</li>
     <li>1.6</li>
-    <li IfModActive="ferny.progressionscenarios">Mods and Shit/Progression Scenarios</li>
-    <li IfModActive="rer.gravshiploanscenario">Mods and Shit/Debt Bound Gravship</li>
-    <li IfModActive="alt4s.OrbitalStationStart">Mods and Shit/Orbital Station Start</li>
-    <li IfModActive="vanillaexpanded.gravship2">Mods and Shit/VE Gravship Chapter 2</li>
+    <li IfModActive="ferny.progressionscenarios">1.6/Mods and Shit/Progression Scenarios</li>
+    <li IfModActive="rer.gravshiploanscenario">1.6/Mods and Shit/Debt Bound Gravship</li>
+    <li IfModActive="alt4s.OrbitalStationStart">1.6/Mods and Shit/Orbital Station Start</li>
+    <li IfModActive="vanillaexpanded.gravship2">1.6/Mods and Shit/VE Gravship Chapter 2</li>
   </v1.6>
 </loadFolders>
