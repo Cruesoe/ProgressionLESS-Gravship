@@ -1,0 +1,29 @@
+[h1]ProgressionLESS: Gravship[/h1]
+[b]All the Progression goodness, less research.[/b]
+
+[i]This is a fork of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3522893553]Progression: Gravship[/url] by ferny. Huge thanks to ferny for the original mod and all the Progression work this builds on. For a really good modpack, check out [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3521297585]The Progression Modpack[/url].[/i]
+
+[h2]What it does[/h2]
+[list]
+[*]Keeps the grav engine from falling until your colony reaches the Spacer era.
+[*]Holds back the gravship quest line until then.
+[*]Sets the gravtech research projects to Spacer tech level.
+[/list]
+
+[h2]Why "LESS"?[/h2]
+Recent versions of Progression: Gravship add up to [b]20 extra research projects[/b] alongside Vanilla Gravship Expanded, and rename and rearrange the gravtech tree. This fork removes all of them.
+[list]
+[*][b]12 projects[/b] removed with Vanilla Gravship Expanded alone.
+[*][b]Up to 8 more[/b] removed with Chapter 2, Gravship Storage, Vehicle Map Framework or Dubs Bad Hygiene.
+[*]Vanilla Gravship Expanded's research tree stays exactly as that mod made it.
+[/list]
+
+[h2]Compatibility[/h2]
+[list]
+[*]Progression: Scenarios
+[*]Debt-Bound Gravship
+[*]Orbital Station Start
+[*]Vanilla Gravship Expanded (Chapters 1 and 2)
+[/list]
+
+[b]Replaces the original. Don't use both.[/b]
